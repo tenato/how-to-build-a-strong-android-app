@@ -1,1 +1,1 @@
-include ':demo', ':java'
+include ':app', ':baselib'
